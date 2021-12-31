@@ -2,4 +2,4 @@
 KMeans Algorithm code from scratch and compare with Sklearn library
 
 
-![name-of-you-image](https://your-copied-image-address)
+![Screenshot-image](Screenshots/Screenshot 2021-12-31 125527.png)
